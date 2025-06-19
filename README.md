@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/342276/swagger.svg" alt="Swagger" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rabbitmq.svg" alt="RabbitMQ" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.2.0/icons/rabbitmq.svg" alt="RabbitMQ" width="40" height="40"/>
 </p>
 
 ---
